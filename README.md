@@ -21,6 +21,7 @@ This can be done on linux using the following command, be sure to replace jumplo
 
 ## Entering the bootloader
 
+
 The bootloader is entered when any of the following is true during power up:
 
 - A bootloader entry flag is set - this would be set by QMK when you press the `RESET` keycode.
